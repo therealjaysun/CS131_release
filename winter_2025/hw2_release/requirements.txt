@@ -1,0 +1,7 @@
+numpy
+Time-python
+scikit-image
+scipy
+matplotlib
+opencv-python
+scikit-image
